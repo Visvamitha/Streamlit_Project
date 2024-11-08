@@ -62,5 +62,5 @@ game_mode = st.selectbox("Select game mode", ["User Guessing", "Machine Guessing
 
 if game_mode == "User Guessing":
     user_guessing_game()
-else:
+elsenm:
     machine_guessing_game()
